@@ -1,6 +1,7 @@
 # Report-recognition
-医院化验单文字定位
-2.0版
+医院化验单文字定位，算法有局限性
+
+
 ![测试图片1](https://github.com/wangzhongzhen/Report-recognition/blob/master/1.jpg)
 ![效果图片1](https://github.com/wangzhongzhen/Report-recognition/blob/master/1_.jpg)
 ![测试图片1](https://github.com/wangzhongzhen/Report-recognition/blob/master/2.jpg)
